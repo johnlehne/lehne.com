@@ -1,3 +1,3 @@
 # lehne.com
 
-This the code that is lehne.com.  Its is auto deployed where there is a commit into master by netlify.
+This is the code base of lehne.com.  It is auto deployed by netlify on each commit into master.
